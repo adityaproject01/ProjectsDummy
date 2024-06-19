@@ -72,8 +72,9 @@
     height: 100%;
   }
 
-  .nav1Left img {
-    width: 140px;
+  .navLeft img {
+    width: 144px;
+    padding-left: 4px;
   }
   .navLeft .is-sticky {
     position: fixed;
