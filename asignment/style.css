@@ -52,7 +52,6 @@
 
   .nav {
     background-image: linear-gradient(290deg, #5c60e8, rgb(54, 64, 94));
-
     z-index: 1000;
     top: 0%;
     position: sticky;
